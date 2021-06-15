@@ -28,6 +28,7 @@ __pycache__
 .#*
 .coverage
 .pytest_cache
+.python-version
 src
 
 *.swp
