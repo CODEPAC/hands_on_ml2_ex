@@ -4,8 +4,8 @@
 .vscode
 
 # dir files
-!datasets/**/.gitkeep
-!models/**/.gitkeep
+datasets/**/.gitkeep
+models/**/.gitkeep
 
 # jupyter
 .ipynb_checkpoints
