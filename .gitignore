@@ -6,6 +6,7 @@
 # dir files
 datasets/**/.gitkeep
 models/**/.gitkeep
+models/*.pkl
 
 # jupyter
 .ipynb_checkpoints
